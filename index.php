@@ -254,7 +254,7 @@
                           <p>In today's digital landscape, reliable tech support is essential for businesses. With my expertise, I provide comprehensive assistance, ranging from troubleshooting and resolving technical issues to assisting with API development and systems integrations.</p>
                         </div>
                       </div>
-                    </div>
+                    </div> 
                   </div>
                 </div>
               </div>
@@ -279,7 +279,7 @@
                   <div class="fun-fact gray-default">
                     <i class="lnr lnr-heart"></i>
                     <h4>Happy Clients</h4>
-                    <span class="fun-fact-block-value">20</span>
+                    <span class="fun-fact-block-value">15</span>
                     <span class="fun-fact-block-text"></span>
                   </div>
                 </div>
@@ -324,7 +324,7 @@
                       <div class="divider"></div>
                       <div class="right-part">
                         <h4 class="item-title">Bachelors of Computer Science</h4>
-                        <p>Enrolled in a 4 year bachelors program of Computer Science and Engineering. I a learnt I diversity of courses that can be applied in the 5th Industrial revolution e.g Dabase Management, Algorithm Design and Analysis and Software Development Methodologies only to mention a few.</p>
+                        <p>I was enrolled in a four-year Computer Science and Engineering bachelor's program. I've taken a variety of classes that I can use in the Fifth Industrial Revolution, including Database Management, Algorithm Design and Analysis, and Software Development Methodologies, to name just a few.</p>
                       </div>
                     </div>
 
@@ -336,7 +336,7 @@
                       <div class="divider"></div>
                       <div class="right-part">
                         <h4 class="item-title">Ordinary and Advanced Level</h4>
-                        <p>I completed my Ordinary and Advanced Level at St Peters Kubatana High School in Highfield. I was involeved in sciencefare and science related clubs there where I managed to earn a certificate of robotics in the club SEITT</p>
+                        <p>I graduated from St. Peters Kubatana High School in Highfield after completing my Ordinary and Advanced Levels. There, I participated in science-related clubs and scientific fairs, where I was able to complete the requirements for a robotics certificate from the SEITT club.</p>
                       </div>
                     </div>
                   </div>
@@ -395,13 +395,13 @@
                 <div class="col-xs-12 col-sm-5">
                   <!-- Design Skills -->
                   <div class="block-title">
-                    <h3>Design <span>Skills</span></h3>
+                    <h3>Critical <span>Skills</span></h3>
                   </div>
 
                   <div class="skills-info skills-second-style">
                     <!-- Skill 1 -->
                     <div class="skill clearfix">
-                      <h4>Web Design</h4>
+                      <h4>Critical thinking </h4>
                       <div class="skill-value">70%</div>
                     </div>
                     <div class="skill-container skill-1">
@@ -411,17 +411,17 @@
 
                     <!-- Skill 3 -->
                     <div class="skill clearfix">
-                      <h4>Logo Design</h4>
-                      <div class="skill-value">65%</div>
+                      <h4>Analytics</h4>
+                      <div class="skill-value">80%</div>
                     </div>
-                    <div class="skill-container skill-2">
+                    <div class="skill-container skill-3">
                       <div class="skill-percentage"></div>
                     </div>
                     <!-- End of Skill 3 -->
 
                     <!-- Skill 4 -->
                     <div class="skill clearfix">
-                      <h4>Graphic Design</h4>
+                      <h4>Problem solving</h4>
                       <div class="skill-value">80%</div>
                     </div>
                     <div class="skill-container skill-3">
@@ -487,19 +487,21 @@
 
                   <!-- Knowledges -->
                   <div class="block-title">
-                    <h3>Knowledges</h3>
+                    <h3>Frameworks And Technologies</h3>
                   </div>
 
                   <ul class="knowledges">
-                    <li>Marketing</li>
-                    <li>Print</li>
-                    <li>Digital Design</li>
-                    <li>Social Media</li>
-                    <li>Time Management</li>
-                    <li>Communication</li>
-                    <li>Problem-Solving</li>
-                    <li>Social Networking</li>
-                    <li>Flexibility</li>
+                    <li>Git/ GitHub </li>
+                    <li>Flask</li>
+                    <li>Django</li>
+                    <li>Angular </li>
+                    <li>Bootstrap</li>
+                    <li>MySQL</li>
+                    <li>PostgreSQL</li>
+                    <li>SQLite</li>
+                    <li>SkLearn</li>
+                    <li>Pandas</li>
+                    <li>JQuery</li>
                   </ul>
                   <!-- End of Knowledges -->
                 </div>
@@ -549,16 +551,7 @@
                     <!-- Portfolio Grid -->
                     <div class="portfolio-grid three-columns">
 
-                      <figure class="item lbaudio" data-groups='["category_all", "category_soundcloud"]'>
-                        <div class="portfolio-item-img">
-                          <img src="img/portfolio/1.jpg" alt="SoundCloud Audio" title="" />
-                          <a href="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/221650664&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" class="lightbox mfp-iframe" title="SoundCloud Audio"></a>
-                        </div>
-
-                        <i class="fa fa-volume-up"></i>
-                        <h4 class="name">SoundCloud Audio</h4>
-                        <span class="category">SoundCloud</span>
-                      </figure>
+                      <!-- NSSA SYSTEM -->
 
                       <figure class="item standard" data-groups='["category_all", "category_detailed"]'>
                         <div class="portfolio-item-img">
@@ -570,6 +563,25 @@
                         <h4 class="name">Pension Manager System</h4>
                         <span class="category">Detailed</span>
                       </figure>
+
+                      <!-- END OF NSSA SYSTEM -->
+
+
+
+                      <!-- NSSA SYSTEM -->
+
+                      <figure class="item standard" data-groups='["category_all", "category_detailed"]'>
+                        <div class="portfolio-item-img">
+                          <img src="img/portfolio/PensionManager.png" alt="Media Project 2" title="" />
+                          <a href="portfolio-1.html" class="ajax-page-load"></a>
+                        </div>
+
+                        <i class="far fa-file-alt"></i>
+                        <h4 class="name">Pension Manager System</h4>
+                        <span class="category">Detailed</span>
+                      </figure>
+
+                      <!-- END OF NSSA SYSTEM -->
 
                       <figure class="item lbvideo" data-groups='["category_all", "category_vimeo-videos"]'>
                         <div class="portfolio-item-img">
@@ -754,21 +766,21 @@
                 <div class="col-xs-12 col-sm-4">
                   <div class="lm-info-block gray-default">
                     <i class="lnr lnr-map-marker"></i>
-                    <h4>San Francisco</h4>
+                    <h4>3756, Kuwadzana 3 Harare</h4>
                     <span class="lm-info-block-value"></span>
                     <span class="lm-info-block-text"></span>
                   </div>
 
                   <div class="lm-info-block gray-default">
                     <i class="lnr lnr-phone-handset"></i>
-                    <h4>415-832-2000</h4>
+                    <h4>+263 77 6705 860</h4>
                     <span class="lm-info-block-value"></span>
                     <span class="lm-info-block-text"></span>
                   </div>
 
                   <div class="lm-info-block gray-default">
                     <i class="lnr lnr-envelope"></i>
-                    <h4><a href="https://lmpixels.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="e988858c91a98c91888499858cc78a8684">[email&#160;protected]</a></h4>
+                    <h4><a  href = "mailto: panashe22lunga@gmail.com">Email Me</a></h4>
                     <span class="lm-info-block-value"></span>
                     <span class="lm-info-block-text"></span>
                   </div>
@@ -788,7 +800,8 @@
                 <div class="col-xs-12 col-sm-8">
                   <div id="map" class="map">
                     <div class="lmpixels-map">
-                      <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=San%20Francisco%2C%20S601%20Townsend%20Street%2C%20California%2C%20USA&amp;amp;t=m&amp;amp;z=16&amp;amp;output=embed&amp;amp;iwloc=near&amp;output=embed"></iframe>
+                      <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=-17.828961,30.931406&amp;amp;t=m&amp;amp;z=16&amp;amp;output=embed&amp;amp;iwloc=near&amp;output=embed"></iframe>
+
                     </div>
                   </div>
                   <div class="block-title">
