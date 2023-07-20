@@ -44,7 +44,7 @@
       <header id="site_header" class="header mobile-menu-hide">
         <div class="header-content">
           <div class="header-photo">
-            <img src="img/main_photo.jpg" alt="Alex Smith">
+            <img src="img/main-photo.png" alt="Alex Smith">
           </div>
           <div class="header-titles">
             <h2>Panashe Lunga</h2>
@@ -77,12 +77,7 @@
               <span class="link-text">Portfolio</span>
             </a>
           </li>
-          <li>
-            <a href="#blog" class="nav-anim">
-              <span class="menu-icon lnr lnr-book"></span>
-              <span class="link-text">Blog</span>
-            </a>
-          </li>
+      
           <li>
             <a href="#contact" class="nav-anim">
               <span class="menu-icon lnr lnr-envelope"></span>
@@ -568,22 +563,53 @@
 
 
 
-                      <!-- NSSA SYSTEM -->
+                      <!-- Lamda System -->
 
                       <figure class="item standard" data-groups='["category_all", "category_detailed"]'>
                         <div class="portfolio-item-img">
-                          <img src="img/portfolio/PensionManager.png" alt="Media Project 2" title="" />
-                          <a href="portfolio-1.html" class="ajax-page-load"></a>
+                          <img src="img/portfolio/lamda2.png" alt="Media Project 2" title="" />
+                          <a href="portfolio-2.html" class="ajax-page-load"></a>
                         </div>
 
                         <i class="far fa-file-alt"></i>
-                        <h4 class="name">Pension Manager System</h4>
+                        <h4 class="name">Lamda Agriculture</h4>
                         <span class="category">Detailed</span>
                       </figure>
 
-                      <!-- END OF NSSA SYSTEM -->
+                      <!-- END OF Lamda SYSTEM -->
 
-                      <figure class="item lbvideo" data-groups='["category_all", "category_vimeo-videos"]'>
+                      <!-- START: FRADULENT CLAIMS DETECTION -->
+
+                      <figure class="item standard" data-groups='["category_all", "category_detailed"]'>
+                        <div class="portfolio-item-img">
+                          <img src="img/portfolio/medical-2.png" alt="Media Project 2" title="" />
+                          <a href="portfolio-3.html" class="ajax-page-load"></a>
+                        </div>
+
+                        <i class="far fa-file-alt"></i>
+                        <h4 class="name">Fradulent Claim Detection System</h4>
+                        <span class="category">Detailed</span>
+                      </figure>
+
+                      <!-- END: FRADULENT CLAIM DETECTION -->
+
+                       <!-- START: REMOTE ALERT MONITORING  -->
+
+                       <figure class="item standard" data-groups='["category_all", "category_detailed"]'>
+                        <div class="portfolio-item-img">
+                          <img src="img/portfolio/siwela-1.png" alt="Media Project 2" title="" />
+                          <a href="portfolio-4.html" class="ajax-page-load"></a>
+                        </div>
+
+                        <i class="far fa-file-alt"></i>
+                        <h4 class="name">Remote Alert Monitoring System</h4>
+                        <span class="category">Detailed</span>
+                      </figure>
+
+                      <!-- END: REMOTE ALERT MONITORING -->
+
+
+                      <!-- <figure class="item lbvideo" data-groups='["category_all", "category_vimeo-videos"]'>
                         <div class="portfolio-item-img">
                           <img src="img/portfolio/3.jpg" alt="Vimeo Video 1" title="" />
                           <a href="https://player.vimeo.com/video/158284739" class="lightbox mfp-iframe" title="Vimeo Video 1"></a>
@@ -592,31 +618,9 @@
                         <i class="fas fa-video"></i>
                         <h4 class="name">Vimeo Video 1</h4>
                         <span class="category">Vimeo Videos</span>
-                      </figure>
+                      </figure> -->
 
-                      <figure class="item standard" data-groups='["category_all", "category_detailed"]'>
-                        <div class="portfolio-item-img">
-                          <img src="img/portfolio/4.jpg" alt="Media Project 1" title="" />
-                          <a href="portfolio-1.html" class="ajax-page-load"></a>
-                        </div>
-
-                        <i class="far fa-file-alt"></i>
-                        <h4 class="name">Detailed Project 1</h4>
-                        <span class="category">Detailed</span>
-                      </figure>
-                      
-                      <figure class="item standard" data-groups='["category_all", "category_detailed"]'>
-                        <div class="portfolio-item-img">
-                          <img src="img/portfolio/4.jpg" alt="Media Project 1" title="" />
-                          <a href="portfolio-1.html" class="ajax-page-load"></a>
-                        </div>
-
-                        <i class="far fa-file-alt"></i>
-                        <h4 class="name">Detailed Project 1</h4>
-                        <span class="category">Detailed</span>
-                      </figure>
-
-                      <figure class="item lbimage" data-groups='["category_all", "category_mockups"]'>
+                      <!-- <figure class="item lbimage" data-groups='["category_all", "category_mockups"]'>
                         <div class="portfolio-item-img">
                           <img src="img/portfolio/5.jpg" alt="Mockup Design 1" title="" />
                           <a class="lightbox" title="Mockup Design 1" href="img/portfolio/full/5.jpg"></a>
@@ -636,7 +640,8 @@
                         <i class="fas fa-video"></i>
                         <h4 class="name">YouTube Video 1</h4>
                         <span class="category">YouTube Videos</span>
-                      </figure>
+                      </figure> -->
+
                     </div>
                   </div>
                   <!-- End of Portfolio Content -->
@@ -646,112 +651,6 @@
           </section>
           <!-- End of Portfolio Subpage -->
 
-          <!-- Blog Subpage -->
-          <section data-id="blog" class="animated-section">
-            <div class="page-title">
-              <h2>Blog</h2>
-            </div>
-
-            <div class="section-content">
-              <div class="row">
-                <div class="col-xs-12 col-sm-12">
-                  <div class="blog-masonry two-columns clearfix">
-
-                    <!-- Blog Post 1 -->
-                    <div class="item post-1">
-                      <div class="blog-card">
-                        <div class="media-block">
-                          <div class="category">
-                            <a href="#" title="View all posts in Design">Design</a>
-                          </div>
-                          <a href="blog-post-1.html">
-                            <img src="img/blog/blog_post_1.jpg" class="size-blog-masonry-image-two-c" alt="Why I Switched to Sketch For UI Design" title="" />
-                            <div class="mask"></div>
-                          </a>
-                        </div>
-                        <div class="post-info">
-                          <div class="post-date">05 Mar 2020</div>
-                          <a href="blog-post-1.html">
-                            <h4 class="blog-item-title">Why I Switched to Sketch For UI Design</h4>
-                          </a>
-                        </div>
-                      </div>
-                    </div>
-                    <!-- End of Blog Post 1 -->
-
-                    <!-- Blog Post 2 -->
-                    <div class="item post-2">
-                      <div class="blog-card">
-                        <div class="media-block">
-                          <div class="category">
-                            <a href="#" title="View all posts in UI">UI</a>
-                          </div>
-                          <a href="blog-post-1.html">
-                            <img src="img/blog/blog_post_2.jpg" class="size-blog-masonry-image-two-c" alt="Best Practices for Animated Progress Indicators" title="" />
-                            <div class="mask"></div>
-                          </a>
-                        </div>
-                        <div class="post-info">
-                          <div class="post-date">23 Feb 2020</div>
-                          <a href="blog-post-1.html">
-                            <h4 class="blog-item-title">Best Practices for Animated Progress Indicators</h4>
-                          </a>
-                        </div>
-                      </div>
-                    </div>
-                    <!-- End of Blog Post 2 -->
-
-                    <!-- Blog Post 3 -->
-                    <div class="item post-1">
-                      <div class="blog-card">
-                        <div class="media-block">
-                          <div class="category">
-                            <a href="#" title="View all posts in Design">Design</a>
-                          </div>
-                          <a href="blog-post-1.html">
-                            <img src="img/blog/blog_post_3.jpg" class="size-blog-masonry-image-two-c" alt="Designing the Perfect Feature Comparison Table" title="" />
-                            <div class="mask"></div>
-                          </a>
-                        </div>
-                        <div class="post-info">
-                          <div class="post-date">06 Feb 2020</div>
-                          <a href="blog-post-1.html">
-                            <h4 class="blog-item-title">Designing the Perfect Feature Comparison Table</h4>
-                          </a>
-                        </div>
-                      </div>
-                    </div>
-                    <!-- End of Blog Post 3 -->
-
-                    <!-- Blog Post 4 -->
-                    <div class="item post-2">
-                      <div class="blog-card">
-                        <div class="media-block">
-                          <div class="category">
-                            <a href="#" title="View all posts in E-Commerce">UI</a>
-                          </div>
-                          <a href="blog-post-1.html">
-                            <img src="img/blog/blog_post_4.jpg" class="size-blog-masonry-image-two-c" alt="An Overview of E-Commerce Platforms" title="" />
-                            <div class="mask"></div>
-                          </a>
-                        </div>
-                        <div class="post-info">
-                          <div class="post-date">07 Jan 2020</div>
-                          <a href="blog-post-1.html">
-                            <h4 class="blog-item-title">An Overview of E-Commerce Platforms</h4>
-                          </a>
-                        </div>
-                      </div>
-                    </div>
-                    <!-- End of Blog Post 4 -->
-                  </div>
-                </div>
-              </div>
-            </div>
-
-
-          </section>
-          <!-- End of Blog Subpage -->
 
           <!-- Contact Subpage -->
           <section data-id="contact" class="animated-section">
